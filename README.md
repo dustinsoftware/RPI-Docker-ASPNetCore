@@ -1,6 +1,6 @@
 # Raspberry Pi 3 + Docker + ASP.NET Core
 
-![Screenshot]('screenshot.png')
+![Screenshot](screenshot.png)
 ## To try it out
 ```
 docker pull dustinsoftware/rpi-net-core
